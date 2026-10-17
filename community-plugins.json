@@ -63173,5 +63173,12 @@
     "author": "Amir Tavakolian",
     "description": "High-accuracy live voice dictation powered by Google Gemini AI directly at the cursor. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "tavakoliian/speakflow"
+  },
+  {
+    "id": "ima-speed-sync",
+    "name": "IMA Share Sync",
+    "author": "oooin",
+    "description": "Sync IMA articles and permitted original files to your vault, with local PDF-to-Markdown conversion using Windows desktop automation.",
+    "repo": "oooing/ima-share-sync"
   }
 ]
